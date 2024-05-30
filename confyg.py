@@ -1,0 +1,5 @@
+URL_MAIN = 'http://qa-scooter.praktikum-services.ru'
+API_METHOD_CREATE_COURIER = '/api/v1/courier'
+API_METHOD_LOGIN_COURIER = '/api/v1/courier/login'
+API_METHOD_CREATE_ORDER = '/api/v1/orders'
+API_METHOD_GET_ORDER_LIST = '/api/v1/orders'
