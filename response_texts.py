@@ -1,0 +1,5 @@
+response_create_courier_success = '{"ok":true}'
+response_create_courier_without_login_or_password = 'Недостаточно данных для создания учетной записи'
+response_create_courier_with_same_login = 'Этот логин уже используется. Попробуйте другой.'
+response_signup_without_login_or_password = 'Недостаточно данных для входа'
+response_signup_with_invalid_login_or_password = 'Учетная запись не найдена'
